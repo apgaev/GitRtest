@@ -78,3 +78,21 @@ xxx
  
 
 xxx
+
+
+xxx
+
+## steam database recommendation system 
+
+Рекомендательная система игр (платформа steam).
+Ссылка на источник датасета: https://www.reddit.com/r/MachineLearning/comments/3q8w47/here_are_some_free_datasets_of_video_game_reviews/
++ еще что-нибудь можем достаточно
+ 
+Список участников:
+
+1. Кузьмин Павел Григорьевич (экономика)
+2. Шикин Антон Александрович (экономика)
+3. Шабурова Дарья Андреевна (экономика)
+4. Козырев Захар Антонович (менеджмент)
+
+xxx
